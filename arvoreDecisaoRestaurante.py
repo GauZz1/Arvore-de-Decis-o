@@ -1,0 +1,2 @@
+msg = "Wyan";
+print(msg);
